@@ -1,15 +1,8 @@
-# Welcome to the GBA emulator
+# SNOC'S GENERIC GBA DINGUS
+hi, im snoc. since browncha's gba site is no longer being updated, i yoinked his gba site and now im gonna add more junk to it
 
-GBA Emulator is a free, online GBA emulator with 150+ Games to play!
+# CREDITS
+Browncha023 for making the original site and nintendo for owning absolutely anything.
 
-# Github GBA Game Website
-
-https://browncha023.github.io/GBA/
-
-# EIC Version
-
-https://gba.endinternetcensorship.repl.co/
-
-<br>
-
-# ⚠️This Project Is No Longer Supported!⚠️
+# SITE
+soon (tm)
