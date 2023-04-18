@@ -1,8 +1,8 @@
 # SNOC'S GENERIC GBA DINGUS
-hi, im snoc. since browncha's gba site is no longer being updated, i yoinked his gba site and now im gonna add more junk to it
+hi, im snoc. since browncha's gba site is no longer even UP, i yoinked his gba site and now im gonna add more junk to it i guess
 
 # CREDITS
-Browncha023 for making the original site and nintendo for owning absolutely anything.
+Browncha023 for making the original site and nintendo for owning absolutely everything here.
 
-# SITE
-soon (tm)
+# SO WHAT AM I ADDING?
+a couple games, even though i dont even know WHERE to start, so i guess yall could suggest stuffs
