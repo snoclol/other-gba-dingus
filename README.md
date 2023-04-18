@@ -5,4 +5,4 @@ hi, im snoc. since browncha's gba site is no longer even UP, i yoinked his gba s
 Browncha023 for making the original site and nintendo for owning absolutely everything here.
 
 # SO WHAT AM I ADDING?
-a couple games, even though i dont even know WHERE to start, so i guess yall could suggest stuffs
+a couple games, even though i dont even know WHERE to start, so uh
